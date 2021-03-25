@@ -161,7 +161,7 @@ input[type=submit] {
 .btn-full:link,
 .btn-full:visited,
 input[type=submit] {
-    background-color: #ffff;
+    background-color: #4AB3DD ;
     border: 1px solid #ffff;
     color: #fff;
     margin-right: 15px;
@@ -177,7 +177,7 @@ input[type=submit] {
 .btn:active,
 input[type=submit]:hover,
 input[type=submit]:active {
-    background-color: #cf6d17;
+    background-color:  #042037;
 }
 
 .btn-full:hover,
@@ -472,6 +472,10 @@ padding-bottom: 0;
 color: rgba(0, 0, 0, 0.9);
 }
 
+
+.contact-form-btn{
+    background-color:#4AB3DD ;
+}
 
 
 
