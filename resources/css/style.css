@@ -334,7 +334,7 @@ header {
 }
 
 .section-features-inner-part-1{
-    padding-top: 30px;
+    padding-top: 50px;
     padding-bottom: 30px;
 }
 .section-features-inner-part-2{
@@ -396,7 +396,9 @@ text-align: center;
 
 .section-services{
     padding-top: 0;
+    padding-bottom: 0;
     /* background-color: #4AB3DD; */
+   
 }
 .section-services-inner{
     background:url(./img/sec_3_bg.png);
@@ -405,7 +407,7 @@ text-align: center;
     color: white;
     max-width: 1140px;
     margin: 0 auto;
-    padding-top: 30px;
+    padding-top: 50px;
 }
 
 .section-services-inner-part-2{
@@ -456,18 +458,22 @@ text-align: center;
     padding: 5px 10px;
 }
 /* ----------------------------------------------- */
-/* CITIES */
+/* CONTACT */
 /* ----------------------------------------------- */
 
-.box img {
-    width: 100%;
-    height: auto;
-    margin-bottom: 15px;
+.section-contact{
+padding-top: 0;
+padding-bottom: 0;
+
+}
+.section-contact-inner{
+    padding-top: 50px;
+
+color: rgba(0, 0, 0, 0.9);
 }
 
-.city-feature {
-    margin-bottom: 5px;
-}
+
+
 
 
 /* ----------------------------------------------- */
